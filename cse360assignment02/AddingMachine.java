@@ -1,3 +1,5 @@
+/* * The HelloWorld program implements an application that * simply displays "Hello World!" to the standard output. * <p> * Giving proper comments in your program makes it more * user friendly and it is assumed as a high quality code. *  * * @author  Rachel * @version 1.0 * @since   2020-09-03  */
+
 package cse360assignment02;
 
 public class AddingMachine {
